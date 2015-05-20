@@ -1,6 +1,7 @@
 STARTFONT 2.1
 COMMENT
 COMMENT  Copyright (c) 1999, Thomas A. Fine
+COMMENT  Copyright (c) 2015, rnndxb wxcy
 COMMENT
 COMMENT  License to copy, modify, and distribute for both commercial and
 COMMENT  non-commercial use is herby granted, provided this notice
@@ -12,13 +13,13 @@ COMMENT
 COMMENT  Produced with bdfedit, a tcl/tk font editing program
 COMMENT  written by Thomas A. Fine
 COMMENT
-FONT -atari-small
-SIZE 11 75 75
+FONT -Misc-Atari800-Medium-R-Normal--8-80-75-75-C-40-ISO8859-1
+SIZE 8 75 75
 FONTBOUNDINGBOX 4 8 0 -1
-STARTPROPERTIES 19
+STARTPROPERTIES 20
 FONTNAME_REGISTRY ""
 FOUNDRY "Misc"
-FAMILY_NAME "Fixed"
+FAMILY_NAME "Atari800"
 WEIGHT_NAME "Medium"
 SLANT "R"
 SETWIDTH_NAME "Normal"
@@ -28,12 +29,13 @@ POINT_SIZE 80
 RESOLUTION_X 75
 RESOLUTION_Y 75
 SPACING "C"
-AVERAGE_WIDTH 50
+AVERAGE_WIDTH 40
 CHARSET_REGISTRY "ISO8859"
 CHARSET_ENCODING "1"
 FONT_DESCENT 1
 FONT_ASCENT 7
 COPYRIGHT "Copyright 1999 by Thomas A. Fine"
+COPYRIGHT "Copyright 2015 by rnndxb wxcy"
 DEFAULT_CHAR 0
 ENDPROPERTIES
 CHARS 128
