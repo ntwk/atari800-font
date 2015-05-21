@@ -4,7 +4,7 @@
 
 Atari800 is a very small 4x8 pixel monospaced font originally designed for an Atari 800 terminal emulator.
 
-The original font has been converted to ISO 10646-1/Unicode and expanded to include full coverage of the Box Drawing Unicode block.
+The original font has been converted to ISO 10646-1/Unicode and expanded to include full coverage of the Box Drawing and Block Elements Unicode blocks.
 
 ## Installation
 
