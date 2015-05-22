@@ -1,5 +1,7 @@
 # Atari800 Font
 
+![screenshot](screenshot.png)
+
 ## Overview
 
 Atari800 is a very small 4x8 pixel monospaced font originally designed for an Atari 800 terminal emulator.
