@@ -10,7 +10,10 @@ The original font has been converted to ISO 10646-1/Unicode and expanded to incl
 
 ## Installation
 
-    cp atari800-normal.bdf ~/.fonts
+1. If you would prefer a PCF format font, run `make`.
+2. Copy or symlink the font to your ~/.fonts directory:
+   `cp atari800-normal.bdf ~/.fonts`
+3. Run `fc-cache -fv` to update your font cache.
 
 ## Credits
 
